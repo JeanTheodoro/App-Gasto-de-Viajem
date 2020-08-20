@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gasto de Viagem</string>
+    <string name="editext_hint_distancia">Distância</string>
+    <string name="editextext_orientation_distancia">Total de quilometros</string>
+    <string name="editext_hint_price">Preço</string>
+    <string name="editextext_orientation_price">Preço por litro</string>
+    <string name="editextext_orientation_litro">KMS por litro</string>
+    <string name="editext_hint_litro">Litro</string>
+    <string name="title_value_gasto">SEU GASTO TOTAL SERÁ DE:</string>
+    <string name="show_value">RS 0</string>
+    <string name="CALCULAR">text_button_calcular</string>
+    <string name="text_button_calcular">CALCULAR</string>
+</resources>
