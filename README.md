@@ -1,9 +1,8 @@
 # App-Gasto-de-Viajem
-______________________
+___________________
 
 ## 📷 Demonstração
-
-
+![App_custo_viagem.gif](https://github.com/JeanTheodoro/App-Gasto-de-Viajem/blob/master/App_custo_viagem.gif)
 _______________
 ## 💻 Atividade desenvolvida:
 
@@ -15,5 +14,4 @@ _______________
 * Android Studio versâo 4.0
 * Api 24 android _Nougat_
 * Linguagem _Kotlin_
-
 
